@@ -353,6 +353,6 @@ If this project helped you, please star it on GitHub! ⭐
 
 <div align="center">
 
-**Made with ❤️ by the STM32 Edge AI community**
+**Made with ❤️ by Harsh Raj Tiwary (@HarshRajTiwary) and the STM32 Edge AI community**
 
 </div>
