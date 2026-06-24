@@ -352,7 +352,6 @@ If this project helped you, please star it on GitHub! ⭐
 ---
 
 <div align="center">
-
-**Made with ❤️ by Harsh Raj Tiwary (@HarshRajTiwary) and the STM32 Edge AI community**
-
+<strong>Made with ❤️ by <a href="https://github.com/HarshRajTiwary">Harsh Raj Tiwary</a> (@HarshRajTiwary)</strong><br/>
+and the STM32 Edge AI community
 </div>
