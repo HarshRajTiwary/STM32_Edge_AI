@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+outputs/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+*.tflite
+*.h
+*.c

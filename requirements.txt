@@ -1,0 +1,7 @@
+numpy>=1.22
+pandas>=1.4
+scikit-learn>=1.0
+matplotlib>=3.5
+tensorflow>=2.10
+# Optional: smaller runtime for embedded inference. Install only on target or in constrained envs
+# tflite-runtime
