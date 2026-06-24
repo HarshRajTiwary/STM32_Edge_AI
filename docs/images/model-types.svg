@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360">
+  <style>
+    .box { fill:#07171d; stroke:#58a6ff; stroke-width:3; rx:14; }
+    .text { fill:#fff; font-family:Arial, sans-serif; font-size:16px; }
+    .subtitle { fill:#94a3b8; font-size:13px; }
+    .header { fill:#58a6ff; font-family:Arial, sans-serif; font-size:20px; font-weight:bold; }
+  </style>
+  <text class="header" x="480" y="40" text-anchor="middle">STM32 Friendly Model Types</text>
+  <rect class="box" x="80" y="80" width="180" height="120" />
+  <text class="text" x="170" y="120" text-anchor="middle">MLP</text>
+  <text class="subtitle" x="170" y="145" text-anchor="middle">Tabular data</text>
+  <text class="subtitle" x="170" y="165" text-anchor="middle">Small footprint</text>
+  <rect class="box" x="360" y="80" width="180" height="120" />
+  <text class="text" x="450" y="120" text-anchor="middle">CNN2D</text>
+  <text class="subtitle" x="450" y="145" text-anchor="middle">Image / 2D data</text>
+  <text class="subtitle" x="450" y="165" text-anchor="middle">Standard conv</text>
+  <rect class="box" x="640" y="80" width="180" height="120" />
+  <text class="text" x="730" y="120" text-anchor="middle">DS-CNN</text>
+  <text class="subtitle" x="730" y="145" text-anchor="middle">Smaller & faster</text>
+  <text class="subtitle" x="730" y="165" text-anchor="middle">Depthwise conv</text>
+  <rect class="box" x="80" y="220" width="180" height="120" />
+  <text class="text" x="170" y="260" text-anchor="middle">Conv1D</text>
+  <text class="subtitle" x="170" y="285" text-anchor="middle">Time-series</text>
+  <text class="subtitle" x="170" y="305" text-anchor="middle">Audio / sensor</text>
+  <rect class="box" x="360" y="220" width="180" height="120" />
+  <text class="text" x="450" y="260" text-anchor="middle">LSTM</text>
+  <text class="subtitle" x="450" y="285" text-anchor="middle">Sequence data</text>
+  <text class="subtitle" x="450" y="305" text-anchor="middle">Order-aware</text>
+  <rect class="box" x="640" y="220" width="180" height="120" />
+  <text class="text" x="730" y="260" text-anchor="middle">TFLM</text>
+  <text class="subtitle" x="730" y="285" text-anchor="middle">Microcontroller runtime</text>
+  <text class="subtitle" x="730" y="305" text-anchor="middle">Int8 quantized</text>
+</svg>

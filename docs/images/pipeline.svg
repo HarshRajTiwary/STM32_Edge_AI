@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
+  <style>
+    .box { fill:#0b1b2d; stroke:#58a6ff; stroke-width:3; rx:14; }
+    .text { fill:#fff; font-family:Arial, sans-serif; font-size:16px; }
+    .subtitle { fill:#cdd9e5; font-size:14px; }
+    .arrow { fill:none; stroke:#58a6ff; stroke-width:4; marker-end:url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#58a6ff" />
+    </marker>
+  </defs>
+  <rect class="box" x="46" y="40" width="180" height="80" />
+  <text class="text" x="136" y="70" text-anchor="middle">Data</text>
+  <text class="subtitle" x="136" y="92" text-anchor="middle">CSV / Synthetic</text>
+  <rect class="box" x="246" y="40" width="180" height="80" />
+  <text class="text" x="336" y="70" text-anchor="middle">Preprocess</text>
+  <text class="subtitle" x="336" y="92" text-anchor="middle">Scaling / reshape</text>
+  <rect class="box" x="446" y="40" width="180" height="80" />
+  <text class="text" x="536" y="70" text-anchor="middle">Model</text>
+  <text class="subtitle" x="536" y="92" text-anchor="middle">MLP / CNN / LSTM</text>
+  <rect class="box" x="646" y="40" width="180" height="80" />
+  <text class="text" x="736" y="70" text-anchor="middle">Quantize</text>
+  <text class="subtitle" x="736" y="92" text-anchor="middle">TFLite int8</text>
+  <rect class="box" x="846" y="40" width="180" height="80" />
+  <text class="text" x="936" y="70" text-anchor="middle">Deploy</text>
+  <text class="subtitle" x="936" y="92" text-anchor="middle">STM32 / TFLM</text>
+  <path class="arrow" d="M226 80 L246 80" />
+  <path class="arrow" d="M426 80 L446 80" />
+  <path class="arrow" d="M626 80 L646 80" />
+  <path class="arrow" d="M826 80 L846 80" />
+</svg>
