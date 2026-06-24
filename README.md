@@ -48,7 +48,9 @@ STM32 microcontrollers power smart devices, sensors, and automation systems. Thi
 | 🚀 **Production Ready** | GitHub Actions CI/CD, MIT license, contribution guide |
 | 📊 **Synthetic Data** | Built-in demo dataset generator for quick testing |
 
-![Pipeline](docs/images/pipeline.svg)
+<div align="center">
+   <img src="docs/images/pipeline.svg" alt="Pipeline" style="max-width:960px; width:100%; height:auto;" />
+</div>
 
 ---
 
