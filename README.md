@@ -50,6 +50,7 @@ STM32 microcontrollers power smart devices, sensors, and automation systems. Thi
 
 <div align="center">
    <img src="docs/images/pipeline.svg" alt="Pipeline" style="max-width:960px; width:100%; height:auto;" />
+   <p style="margin-top:8px; color:#cdd9e5;">Pipeline: Data → Preprocess → Model → Quantize → Deploy</p>
 </div>
 
 ---
